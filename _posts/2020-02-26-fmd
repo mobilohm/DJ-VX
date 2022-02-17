@@ -5,7 +5,7 @@ subtitle: like a river to the sea
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [books, test]
+tags:
 ---
 ---
 <iframe scrolling="no" id="hearthis_at_user_djvx" width="100%" height="350" src="https://hearthis.at/djvx/embed/" frameborder="0" allowtransparency></iframe>---
